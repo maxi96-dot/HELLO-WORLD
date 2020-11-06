@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "pYthOn Finite State Machine"
+name = "fysom"
+optional = false
+python-versions = "*"
+version = "2.1.5"
+
+[metadata]
+content-hash = "dbf967bb75507055122e47824ba13d5271a530357a818924f956d1ec2c71ac11"
+python-versions = "^3.7"
+
+[metadata.hashes]
+fysom = ["f270b0cbd6e40721ef04340419598affdb2e7b981deb27b59551c5bca2535c34"]
